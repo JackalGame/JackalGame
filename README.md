@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jack
-- 👀 I’m interested in programming and creating video games with Unity.
-- 🌱 I’m currently expanding my knowledge of both c# and Unity with me currently learning about the fundamentals of an FPS.
-- 💞️ I’m always looking for suggestions and feedback on how to improve my coding and would love to hear from you.
+- 👀 Check out my portfolio of projects https://jackalgame.github.io/
+- 🤯 I’m interested in programming and creating video games with Unity.
+- 💡  I’m always looking for suggestions and feedback on how to improve my coding and would love to hear from you.
 - 📫 You can reach on via email to jackalgamestudios@gmail.com or on Twitter via @JackalGame and Instagram on jackal_game.
